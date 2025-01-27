@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef75afa2ef672024090313dd5c4cc844
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Materials/Shaders/Funcs/Float2Color.hlsl
+  uploadId: 533572

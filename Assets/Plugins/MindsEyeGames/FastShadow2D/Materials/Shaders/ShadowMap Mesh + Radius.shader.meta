@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c5d53d936b91c144b22bd8a8c0f902c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Materials/Shaders/ShadowMap
+    Mesh + Radius.shader
+  uploadId: 533572

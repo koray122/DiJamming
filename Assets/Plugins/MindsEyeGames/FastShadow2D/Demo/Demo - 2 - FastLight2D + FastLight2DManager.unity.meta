@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcdd490e844a8484b9165744582dc70b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Demo/Demo - 2 - FastLight2D
+    + FastLight2DManager.unity
+  uploadId: 533572

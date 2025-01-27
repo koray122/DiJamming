@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ed28da6a06c15640a56dc7eec27325b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Prefabs/FastLight2D Manager.prefab
+  uploadId: 533572

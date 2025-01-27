@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e57ec9e8ff4134d40bbb01b85ae87f61
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Demo/Demo - 3 - Shadow Meshes.unity
+  uploadId: 533572

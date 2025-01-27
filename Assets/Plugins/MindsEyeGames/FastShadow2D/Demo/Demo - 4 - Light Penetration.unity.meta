@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a668305afa85ce4faf8ea84335bc298
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Demo/Demo - 4 - Light Penetration.unity
+  uploadId: 533572

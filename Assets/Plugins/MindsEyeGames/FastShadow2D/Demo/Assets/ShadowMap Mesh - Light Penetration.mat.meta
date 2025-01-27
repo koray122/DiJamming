@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b24f430f22f57fa479d5a1ff11ceab74
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Demo/Assets/ShadowMap Mesh
+    - Light Penetration.mat
+  uploadId: 533572

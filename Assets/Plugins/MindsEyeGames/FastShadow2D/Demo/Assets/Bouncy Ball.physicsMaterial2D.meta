@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b5ce0eb5dfe1b847a56182dbe2d6eed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Demo/Assets/Bouncy Ball.physicsMaterial2D
+  uploadId: 533572

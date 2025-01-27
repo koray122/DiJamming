@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Super Bubbler
+* source:	https://sketchfab.com/3d-models/the-super-bubbler-7c7f055848d14bf182872b0c947b595c
+* author:	maddhattpatt (https://sketchfab.com/maddhatt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Super Bubbler" (https://sketchfab.com/3d-models/the-super-bubbler-7c7f055848d14bf182872b0c947b595c) by maddhattpatt (https://sketchfab.com/maddhatt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

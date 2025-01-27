@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d510e877a6d9262429334f910f470b61
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235623
+  packageName: FastLight2D - super fast 2D lights on the GPU!
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/MindsEyeGames/FastShadow2D/Materials/Shaders/Funcs/LineIntersection.hlsl
+  uploadId: 533572
